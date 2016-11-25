@@ -1,1 +1,1 @@
-# 36cube
+# 36cube solution
